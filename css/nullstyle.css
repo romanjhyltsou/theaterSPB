@@ -1,0 +1,48 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: "OpenSansCondensed-Bold", "sans-serif";
+  font-family: bold;
+  font-size: 18px;
+  overflow-x: hidden; 
+  min-height: 320px; 
+  color: #FFFFFF;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+header {
+  background-color: #000;
+}
+
+.container {
+  max-width: 1110px;
+  margin: 0 auto;
+}
