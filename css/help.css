@@ -1,0 +1,130 @@
+.social path:hover{
+  fill: #D1A954;
+  transition: 0.5s;
+}
+/* header start */
+/* .header{
+  max-width: 1920px;
+  margin: 0 auto; 
+} */
+
+/* .header__right::before{
+  position: absolute;
+  content: "";
+  background-image: url('../img/icon/enter.svg');
+  width: 14px;
+  height: 14px;
+  left: -26px;
+  cursor: pointer;
+} */
+
+/* mobail menu  start*/
+/* .menu__btn{
+  margin-top: 25px;
+}
+.menu__btn-line {
+  background: #FFFFFF;
+  border-radius: 3px;
+  height: 3px;
+  width: 34px;
+  margin: 1px 0 7px;
+  display: none;
+}
+.menu__mobile__list{
+  position: absolute;
+  width: 200px;
+  background: #1F1F1F;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+  transform: translateY(-150%);
+  transition: all 1.5s;  
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+}
+.menu__mobile__item {
+  position: relative;
+  text-align: center;
+  border: 1px solid #969696;
+}
+.menu__mobile__link {
+  width: 100%;
+  padding: 15px 0;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  color: #969696;
+}
+.menu__mobile__link:hover{
+  color: #FFFFFF;
+}
+.menu__mobile__list_active{
+  transform: translateY(75%);
+  transition: all 1.5s;
+} */
+/* mobail menu  end*/
+
+/* .main{
+  background-image: url(../img/main.jpg);
+  max-width: 1920px;
+  margin: 0 auto;
+  height: 810px;
+  background-position: top center;
+  background-size: cover;
+} */
+/* slider start */
+/* .swiper {
+  font-family: 'Playfair Display, sans-serif';
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  max-width: 880px;
+  height: 414px;
+  color: #FFFFFF;
+}
+
+.card__inner__img{
+  height: 325px;
+  width: 260px;
+}
+.card__inner__name{
+  display: block;
+  margin: 25px 0 10px 0;
+}
+.card__inner__prise{
+  display: block;
+}
+.swiper-pagination{
+  display: none;
+}
+
+.swiper-container-s1 {
+  max-width: 100%;
+  height: 100px;
+} */
+/* slider end */
+
+/* <div class="menu__btn">
+     <div class="menu__btn-line"></div>
+      <div class="menu__btn-line"></div>
+      <div class="menu__btn-line"></div>
+</div> */
+/* <ul class="menu__list">
+  <li class="menu__item">
+    <a class="menu__link" href="#">
+      Понравилось
+    </a>
+  </li>
+  <li class="menu__item">
+    <a class="menu__link" href="#">
+      личный кабинет
+    </a>
+  </li>
+  <li class="menu__item">
+    <a class="menu__link" href="#">
+      настройки
+    </a>
+  </li>
+</ul> */
